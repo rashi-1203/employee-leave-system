@@ -2,7 +2,7 @@
 
 A full-stack web application for managing employee leave requests with role-based access control. Built with the MERN stack (MongoDB, Express.js, React, Node.js) and deployed on Render and Vercel.
 
-**Live Demo:** [frontend-link.vercel.app](https://your-frontend.vercel.app) &nbsp;|&nbsp; **API:** [backend-link.onrender.com](https://your-backend.onrender.com)
+**Live Demo:** [frontend-link.vercel.app](employee-leave-system-9y7t.vercel.app) &nbsp;|&nbsp; **API:** [backend-link.onrender.com](https://employee-leave-backend-a1ye.onrender.com)
 
 ---
 
@@ -106,7 +106,7 @@ employee-leave-system/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/employee-leave-system.git
+git clone https://github.com/rashi-1203/employee-leave-system.git
 cd employee-leave-system
 ```
 
@@ -212,4 +212,4 @@ App runs at `http://localhost:3000`
 
 **Rashi Goyal**  
 B.Tech Computer Science, Ajeenkya DY Patil University  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/rashi-goyal-878186259) · [GitHub](https://github.com/rashi-1203)
